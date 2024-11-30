@@ -1,0 +1,1 @@
+{"id":1732967401021,"category":{"id":1732967400383,"name":"Birds"},"name":"Rocky","photoUrls":["http://example.com/pet/photo.jpg"],"tags":[{"id":1732967400645,"name":"Neutered"},{"id":1732967401093,"name":"Trained"}],"status":"sold"}

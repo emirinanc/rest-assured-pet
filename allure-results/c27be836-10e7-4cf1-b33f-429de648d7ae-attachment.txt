@@ -1,0 +1,1 @@
+{"id":1732987620543,"category":{"id":1732987620548,"name":"Dogs"},"name":"Rocky","photoUrls":["http://example.com/pet/photo.jpg"],"tags":[{"id":1732987620846,"name":"Playful"}],"status":"available"}

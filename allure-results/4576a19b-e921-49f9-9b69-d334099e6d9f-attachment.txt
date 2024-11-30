@@ -1,0 +1,1 @@
+{"id":1732967313878,"category":{"id":1732967314444,"name":"Cats"},"name":"Lucy","photoUrls":["http://example.com/pet/photo.jpg"],"tags":[{"id":1732967314197,"name":"Vaccinated"},{"id":1732967314741,"name":"Adult"}],"status":"available"}

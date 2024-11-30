@@ -1,0 +1,1 @@
+{"id":1732988646701,"category":{"id":1732988647194,"name":"Dogs"},"name":"Bailey","photoUrls":["http://example.com/pet/photo.jpg"],"tags":[{"id":1732988646843,"name":"Playful"},{"id":1732988647189,"name":"Special Needs"}],"status":"available"}

@@ -1,0 +1,1 @@
+{"id":1732967398734,"category":{"id":1732967399232,"name":"Dogs"},"name":"Cooper","photoUrls":["http://example.com/pet/photo.jpg"],"tags":[{"id":1732967398454,"name":"Young"},{"id":1732967398621,"name":"Friendly"},{"id":1732967399162,"name":"Playful"}],"status":"available"}
