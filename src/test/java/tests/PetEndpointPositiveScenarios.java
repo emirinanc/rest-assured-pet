@@ -89,7 +89,6 @@ public class PetEndpointPositiveScenarios extends TestBase {
     @DisplayName("DELETE - Delete pet - Positive scenario")
     void testDeletePet() {
 
-        // Verify pet is deleted
         Response response = given()
                 .pathParam("petId", testPet.getId())
                 .when()
