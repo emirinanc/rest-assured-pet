@@ -1,11 +1,9 @@
 package tests;
 
-import utils.TestDataGenerator;
 import io.qameta.allure.*;
 import io.restassured.response.Response;
 import org.junit.jupiter.api.*;
 import static io.restassured.RestAssured.given;
-import static org.hamcrest.Matchers.*;
 import lombok.extern.slf4j.Slf4j;
 import com.google.gson.JsonArray;
 import com.google.gson.JsonObject;
